@@ -6,3 +6,7 @@ Task Web Client Development Week 2
 3. Create code to  Check if a Number is Even or Odd
 4. Create code to Remove the First Occurrence of a Substring
 5. create Code to Check if a String is a Palindrome
+
+
+# Codespace
+link codeSpace : https://fantastic-space-winner-4jwjww79wxg739pj.github.dev/
