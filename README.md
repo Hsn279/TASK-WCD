@@ -8,5 +8,4 @@ Task Web Client Development Week 2
 5. create Code to Check if a String is a Palindrome
 
 
-# Codespace
-link codeSpace : https://fantastic-space-winner-4jwjww79wxg739pj.github.dev/
+
